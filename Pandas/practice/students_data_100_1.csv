@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,City,Department,Semester,CGPA,Attendance,Placed
+1,Aarav Khanna,20,Male,Greater Noida,Electronics,3,8.7,94,No
+2,Priya Sharma,18,Female,Greater Noida,Electronics,1,7.9,94,No
+3,Ira Joshi,18,Female,Ghaziabad,Information Technology,7,7.0,69,Yes
+4,Simran Gupta,21,Female,Noida,Mechanical,6,8.1,62,No
+5,Raghav Reddy,18,Male,Gurgaon,Mechanical,6,8.0,64,Yes
+6,Zayn Kapoor,18,Male,Greater Noida,Computer Science,7,6.7,83,Yes
+7,Pooja Dubey,20,Female,Noida,Electrical,3,7.8,75,No
+8,Sneha Rastogi,23,Female,Gurgaon,Electronics,6,9.1,63,Yes
+9,Harsh Nair,21,Male,Meerut,Computer Science,4,9.4,96,No
+10,Pooja Chopra,21,Female,Kanpur,Information Technology,8,6.1,68,No
+11,Nisha Pillai,21,Female,Faridabad,Civil,6,6.4,68,No
+12,Zayn Verma,18,Male,Ghaziabad,Information Technology,3,8.9,87,No
+13,Charvi Bhatt,21,Female,Gurgaon,Mechanical,1,8.4,67,No
+14,Ojasvi Chopra,20,Female,Noida,Mechanical,7,6.2,60,No
+15,Gauri Mishra,19,Female,Gurgaon,Computer Science,5,9.1,92,Yes
+16,Dev Mishra,19,Male,Gurgaon,Electrical,1,8.1,91,No
+17,Sanya Oberoi,20,Female,Greater Noida,Computer Science,4,9.3,65,No
+18,Qausar Gupta,22,Female,Ghaziabad,Electronics,8,9.6,70,Yes
+19,Pooja Rastogi,22,Female,Greater Noida,Information Technology,5,7.2,83,Yes
+20,Simran Kaur,19,Female,Noida,Mechanical,1,8.0,74,No
+21,Karan Ghosh,23,Male,Delhi,Electronics,2,9.4,81,No
+22,Rahul Dubey,21,Male,Greater Noida,Electrical,3,8.6,96,No
+23,Harsh Chauhan,21,Male,Greater Noida,Computer Science,2,8.3,82,No
+24,Radhika Khanna,18,Female,Noida,Computer Science,7,8.6,66,Yes
+25,Om Desai,19,Male,Kanpur,Electronics,5,7.5,64,No
+26,Rohan Chopra,22,Male,Delhi,Computer Science,4,6.2,91,No
+27,Sanya Verma,19,Female,Kanpur,Computer Science,7,6.6,89,Yes
+28,Neha Yadav,20,Female,Greater Noida,Computer Science,1,8.7,63,No
+29,Gauri Rastogi,22,Female,Ghaziabad,Computer Science,2,9.2,64,No
+30,Ishaan Singh,22,Male,Greater Noida,Electrical,1,8.2,86,No
+31,Tara Joshi,19,Female,Lucknow,Electronics,5,7.2,79,No
+32,Aarav Desai,22,Male,Faridabad,Computer Science,2,7.8,92,No
+33,Sanya Gupta,19,Female,Lucknow,Mechanical,3,7.4,94,No
+34,Tanish Oberoi,22,Male,Meerut,Information Technology,2,9.5,68,No
+35,Varun Agarwal,19,Male,Meerut,Mechanical,4,8.6,73,No
+36,Gauri Chauhan,20,Female,Delhi,Computer Science,7,9.1,62,Yes
+37,Sahil Joshi,19,Male,Agra,Electrical,7,7.9,67,Yes
+38,Om Verma,20,Male,Faridabad,Electrical,3,7.3,62,No
+39,Parth Malhotra,19,Male,Greater Noida,Information Technology,2,7.0,95,No
+40,Jiya Khanna,19,Female,Greater Noida,Electronics,3,9.3,61,No
+41,Pari Rastogi,21,Female,Greater Noida,Mechanical,3,8.9,66,No
+42,Naveen Chauhan,19,Male,Greater Noida,Civil,6,6.8,74,Yes
+43,Ishaan Nair,20,Male,Noida,Mechanical,6,8.3,85,No
+44,Isha Singh,20,Female,Ghaziabad,Electrical,5,5.7,98,No
+45,Diya Bhatt,22,Female,Noida,Civil,4,6.6,87,No
+46,Dev Tiwari,18,Male,Lucknow,Electrical,6,8.4,67,No
+47,Gauri Kapoor,23,Female,Kanpur,Mechanical,7,8.5,95,Yes
+48,Lavanya Reddy,23,Female,Ghaziabad,Electrical,5,7.2,60,No
+49,Kabir Nagar,22,Male,Faridabad,Information Technology,6,7.5,88,No
+50,Pari Qureshi,23,Female,Ghaziabad,Information Technology,2,6.7,99,No
+51,Tanish Kapoor,19,Male,Greater Noida,Electronics,1,5.7,90,No
+52,Laksh Tiwari,23,Male,Faridabad,Electronics,7,7.6,75,Yes
+53,Parth Mishra,18,Male,Kanpur,Electronics,3,9.0,93,No
+54,Raghav Pandey,18,Male,Agra,Electronics,8,8.4,95,Yes
+55,Jiya Oberoi,23,Female,Gurgaon,Civil,8,9.4,90,Yes
+56,Kunal Chopra,20,Male,Gurgaon,Civil,4,6.7,64,No
+57,Rahul Nair,20,Male,Gurgaon,Computer Science,3,6.1,84,No
+58,Karan Tiwari,21,Male,Lucknow,Electrical,8,7.3,73,No
+59,Sanya Mishra,22,Female,Delhi,Electrical,7,7.6,82,Yes
+60,Radhika Qureshi,21,Female,Gurgaon,Information Technology,4,7.6,77,No
+61,Ishaan Nair,23,Male,Kanpur,Information Technology,3,9.1,68,No
+62,Raghav Reddy,22,Male,Faridabad,Information Technology,1,5.9,87,No
+63,Riya Verma,20,Female,Kanpur,Mechanical,4,7.5,81,No
+64,Sneha Mishra,21,Female,Meerut,Computer Science,8,5.6,94,Yes
+65,Tanvi Chopra,18,Female,Delhi,Computer Science,4,6.4,61,No
+66,Aditya Chauhan,23,Male,Noida,Electrical,4,7.5,76,No
+67,Rajat Bhatt,23,Male,Noida,Electronics,5,6.0,61,No
+68,Charvi Ghosh,19,Female,Noida,Electrical,4,5.9,79,No
+69,Harsh Pillai,18,Male,Lucknow,Electrical,7,8.3,64,No
+70,Isha Pandey,21,Female,Agra,Computer Science,7,9.6,89,Yes
+71,Riya Khanna,22,Female,Meerut,Electrical,8,7.5,97,Yes
+72,Kunal Rastogi,18,Male,Meerut,Civil,4,8.7,96,No
+73,Aisha Sharma,21,Female,Lucknow,Electronics,8,6.4,76,No
+74,Heer Sharma,22,Female,Greater Noida,Computer Science,4,8.6,91,No
+75,Uday Chauhan,23,Male,Agra,Civil,1,5.9,74,No
+76,Yash Dubey,22,Male,Lucknow,Civil,6,7.3,95,Yes
+77,Sneha Kapoor,20,Female,Greater Noida,Computer Science,4,6.9,94,No
+78,Siddharth Yadav,23,Male,Agra,Mechanical,5,9.7,72,Yes
+79,Riya Kapoor,18,Female,Gurgaon,Electronics,5,5.7,63,No
+80,Sahil Pandey,21,Male,Noida,Computer Science,5,7.5,88,Yes
+81,Rahul Pandey,21,Male,Noida,Computer Science,7,7.6,96,Yes
+82,Aditya Mehta,22,Male,Meerut,Computer Science,4,6.0,86,No
+83,Zayn Iyer,21,Male,Agra,Civil,5,9.2,87,Yes
+84,Rajat Khanna,18,Male,Greater Noida,Information Technology,4,6.6,65,No
+85,Om Gupta,19,Male,Delhi,Civil,8,8.5,90,Yes
+86,Yash Ghosh,20,Male,Agra,Computer Science,4,9.5,97,No
+87,Kabir Singh,22,Male,Greater Noida,Information Technology,3,9.4,69,No
+88,Harsh Kapoor,22,Male,Faridabad,Mechanical,8,6.0,79,No
+89,Gauri Agarwal,21,Female,Agra,Computer Science,1,9.3,80,No
+90,Karan Kaur,23,Male,Faridabad,Electrical,1,9.8,77,No
+91,Mohit Iyer,23,Male,Agra,Mechanical,3,9.8,87,No
+92,Ananya Chauhan,20,Female,Kanpur,Mechanical,6,8.4,70,Yes
+93,Divya Dubey,21,Female,Gurgaon,Computer Science,8,5.9,76,No
+94,Radhika Iyer,18,Female,Gurgaon,Civil,7,5.7,93,Yes
+95,Kavya Desai,18,Female,Greater Noida,Mechanical,3,9.5,88,No
+96,Simran Sharma,23,Female,Faridabad,Electronics,3,6.8,60,No
+97,Manish Oberoi,18,Male,Agra,Computer Science,3,7.6,78,No
+98,Diya Oberoi,21,Female,Agra,Electronics,8,7.9,84,Yes
+99,Naveen Gupta,20,Male,Kanpur,Mechanical,5,9.0,78,No
+100,Radhika Mehta,21,Female,Gurgaon,Civil,6,6.9,94,Yes
